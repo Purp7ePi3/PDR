@@ -1,0 +1,7 @@
+=== Sessione di monitoraggio iniziata il 2025-05-09 15:58:51 ===
+Host monitorati: 192.168.1.172, 5.189.145.170, 173.249.4.68, 192.168.1.1, 192.168.0.1
+
+2025-05-09 15:58:57 - Host 192.168.1.172 è passato a UP
+
+=== Sessione di monitoraggio terminata il 2025-05-09 15:59:07 ===
+
