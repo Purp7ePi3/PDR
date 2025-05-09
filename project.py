@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Network Monitor Script
-----------------------
-Questo script consente di monitorare lo stato di più host in una rete
-utilizzando il protocollo ICMP (ping).
-"""
-
-import os
 import platform
 import subprocess
 import time
