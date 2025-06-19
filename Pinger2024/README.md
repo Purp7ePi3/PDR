@@ -7,6 +7,7 @@ This script allows you to monitor the availability of multiple hosts using ICMP 
 ``` bash
 python pinger.py [options] hosts
 ```
+
 ## Arguments
 ### Hosts (positional argument): A list of IP addresses of the hosts to monitor. Example: 192.168.1.1 192.168.1.2.
 ## Options
