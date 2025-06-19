@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Script di dimostrazione del protocollo Go-Back-N
 Avvia automaticamente server e client per testare il protocollo
@@ -44,7 +43,6 @@ def run_client():
         # Controlla se il file client esiste
         if not os.path.exists('client.py'):
             print("File client.py non trovato!")
-            print("Assicurati che il file client.py sia nella stessa directory")
             return
             
         process = subprocess.Popen([sys.executable, 'client.py'], 

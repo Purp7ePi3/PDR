@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Go-Back-N ARQ Protocol - Server Implementation
 Riceve pacchetti numerati e invia ACK solo per quelli ricevuti in ordine

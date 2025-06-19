@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Test suite per il protocollo Go-Back-N
 Testa diversi scenari: nessuna perdita, perdita moderata, perdita alta
@@ -15,7 +14,6 @@ try:
     from client import GBNClient
 except ImportError as e:
     print(f"Errore importazione: {e}")
-    print("Assicurati che server.py e client.py siano nella stessa directory")
     sys.exit(1)
 
 class GBNTester:
